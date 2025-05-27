@@ -1,49 +1,77 @@
 ![Super_tic-tac-toe_rules_example](https://github.com/user-attachments/assets/e84181a4-57b4-4ad7-b47f-70ef2952e6fc)
 
+# بازی Doz (D0Z) Amjadi - نسخه نصبی
 
-# Simple Snake Game — Installer Version
-# Password Fill : amjadidozgame | رمز فایل : amjadidozgame
-## About / درباره بازی
+---
 
-**فارسی:**
-این بازی مار کلاسیک و ساده با پایتون و کتابخانه Pygame ساخته شده است.
-نسخه حاضر یک فایل نصبی است که می‌توانید به راحتی روی ویندوز اجرا کنید، بدون نیاز به نصب پایتون یا کتابخانه‌ها.
-هدف بازی: کنترل مار، خوردن غذا و جلوگیری از برخورد با دیوار یا بدن مار.
+## راهنمای نصب و اجرا (فارسی)
 
-**English:**
-This classic simple Snake game is built with Python and Pygame.
-This release is an installer file for easy setup on Windows — no need to install Python or dependencies manually.
-Game goal: control the snake, eat food, and avoid hitting walls or yourself.
+**نام بازی:** Doz (D0Z) Amjadi  
+**سازنده:** علیرضا امجدی  
+**سال ساخت:** 2025  
+**زبان برنامه‌نویسی:** Python  
 
-## How to install / نحوه نصب
+### پسورد فایل نصبی:  
+`amjadidozgame`
 
-1. فایل نصبی (GAMEDOZ.exe) را دانلود کنید.
-2. ان را فشرده کنید 
-3. روی فایل نصبی دوبار کلیک کنید و مراحل نصب را دنبال کنید.
-4. بعد از نصب، بازی را از دسکتاپ یا منوی استارت اجرا کنید.
+### مراحل نصب و اجرا:  
+1. فایل نصبی بازی را دانلود کنید.  
+2. فایل فشرده را با پسورد بالا استخراج کنید.  
+3. وارد پوشه استخراج شده شوید.  
+4. برای اجرای بازی، فایل `main.py` را اجرا کنید.  
+5. اگر پایتون و Pygame نصب ندارید، ابتدا نصب کنید:  
+   ```bash
+   pip install pygame
 
-## How to play / نحوه بازی
 
-* Use arrow keys to move the snake.
+6. بازی را اجرا کرده و لذت ببرید!
 
-* Eat the red blocks to grow longer.
+### نکات مهم:
 
-* Avoid hitting walls or your own tail.
+* نیاز به Python نسخه 3.6 به بالا دارید.
+* بهتر است بازی را از طریق خط فرمان (ترمینال) اجرا کنید تا در صورت وجود خطا بتوانید آن را ببینید.
 
-* On game over, press `R` to restart or `Q` to quit.
+---
 
-* برای حرکت مار از کلیدهای جهت‌نما استفاده کنید.
+# Doz (D0Z) Amjadi Game - Installer Version
 
-* غذاهای قرمز را بخورید تا مار بزرگ‌تر شود.
+---
 
-* به دیوار یا بدن مار برخورد نکنید.
+## Installation and Running Guide (English)
 
-* بعد از اتمام بازی، برای شروع مجدد `R` و برای خروج `Q` را فشار دهید.
+**Game Name:** Doz (D0Z) Amjadi
+**Developer:** Alireza Amjadi
+**Year:** 2025
+**Programming Language:** Python
 
-## Support / پشتیبانی
+### Installer Password:
 
-برای سوال یا مشکل، می‌توانید به صفحه پروژه در GitHub مراجعه کنید یا با سازنده تماس بگیرید.
+`amjadidozgame`
 
-**Builder:** Alireza Amjadi
-**سازنده:** علیرضا امجدی
-**Year / سال:** 2025
+### How to install and run:
+
+1. Download the game installer file.
+2. Extract the compressed file using the password above.
+3. Enter the extracted folder.
+4. Run the game by executing `main.py`.
+5. If you don't have Python and Pygame installed, install them first:
+
+   ```bash
+   pip install pygame
+   ```
+6. Enjoy the game!
+
+### Important Notes:
+
+* Requires Python 3.6 or higher.
+* It is recommended to run the game via the command line (terminal) to see any errors if they occur.
+
+---
+
+## Contact
+
+Alireza Amjadi — 2025
+Email: [your-email@example.com](mailto:your-email@example.com) (optional)
+
+
+```
