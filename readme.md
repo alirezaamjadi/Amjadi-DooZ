@@ -71,4 +71,4 @@ Players take turns marking X or O aiming to win small boards by lining three mar
 
 ## Contact  
 Developed by Alireza Amjadi — 2025  
-Email: your-email@example.com (optional)  
+Email: your-alirezaamjadi1387@gmail.com (optional)  
