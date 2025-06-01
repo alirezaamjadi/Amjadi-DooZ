@@ -71,7 +71,7 @@
 ## Contact
 
 Alireza Amjadi — 2025
-Email: [your-alirezaamjadi1387@gmail.com](mailto:your-email@example.com) (optional)
+Email: [alirezaamjadi1387@gmail.com](mailto:alirezaamjadi1387@gmail.com) (optional)
 
 
 ```
